@@ -7,6 +7,9 @@ main (int argc, char *argv[])
 
   for (counter = 0; counter < argc; counter++)
     printf ("%s\n", argv[counter]);
+
+  register x = 5;
+  printf("%d\n",x);
   
   return 0;
 }
