@@ -55,28 +55,5 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "files.associations": {
-    "stdalign.h": "c",
-    "array": "c",
-    "*.tcc": "c",
-    "forward_list": "c",
-    "string": "c",
-    "unordered_map": "c",
-    "unordered_set": "c",
-    "memory": "c",
-    "fstream": "c",
-    "functional": "c",
-    "future": "c",
-    "istream": "c",
-    "ostream": "c",
-    "vector": "c",
-    "shared_mutex": "c",
-    "sstream": "c",
-    "streambuf": "c",
-    "thread": "c",
-    "regex": "c",
-    "tuple": "c",
-    "valarray": "c"
-  }
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
 }

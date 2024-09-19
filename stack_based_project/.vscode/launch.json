@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/python modules/os",
-      "program": "e:/python modules/os/build/Debug/outDebug",
+      "cwd": "e:/python modules/stack_based_project",
+      "program": "e:/python modules/stack_based_project/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
